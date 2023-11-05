@@ -1,0 +1,13 @@
+{
+  "Database": {
+    "Host":     "127.0.0.1",
+    "Port":     5432,
+    "Database": "",
+    "User":     "user",
+    "Password": "password"
+  },
+  "Server": {
+    "Host": "127.0.0.1",
+    "Port": 80
+  }
+}
